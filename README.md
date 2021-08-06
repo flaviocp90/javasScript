@@ -1,1 +1,2 @@
-# javasScript
+Counter - progetto Javascript
+
